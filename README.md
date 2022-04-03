@@ -12,7 +12,7 @@ $ git clone "git-url"
 ## Now run requirements file to install all dependencies 
 
 ```sh
-(env)\pip install -r requirements.txt
+pip install -r requirements.txt
 ```      
 
 web app URL
@@ -37,8 +37,6 @@ Webapp paths: sample 5 lines out of 1000 of the input file wordlist.txt
 
 Success status codes: [200, 302]
 
-
- 
 
 Sample Output: A list of URLs that responded with any of the success status codes as provided in the input by the user.
  
