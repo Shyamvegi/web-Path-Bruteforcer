@@ -2,7 +2,7 @@ import sys
 import time
 import threading
 import requests
-import http.client
+#import http.client
 
 ''' All modules are imported
     threading is to run threads and do multithreading
