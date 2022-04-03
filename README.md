@@ -13,7 +13,16 @@ $ git clone "git-url"
 
 ```sh
 pip install -r requirements.txt
-```      
+``` 
+## Run this command
+```sh
+python run.py www.github.com samplelist.txt 200 302
+``` 
+## Explanation of cmdline args
+```sh
+python run.py <url/domain> <pathfile/dirfile> <statusCodes>
+``` 
+##Make sure u have python installed else visie www.python.org
 
 web app URL
 A file containing a list of web app paths that need to be brute-forced against the specified web app URL  [Minimum paths: 1000]Sample wordlist:
