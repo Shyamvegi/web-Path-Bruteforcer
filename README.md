@@ -1,5 +1,4 @@
-# cloudsek_BE
-# CloudSEK SDE Task Using Python
+#BruteForcer CLI Using Python
 	-It consists the actual implementation of web path brute forcer
     -It works on threading
     -fast and minimal cpu usage
